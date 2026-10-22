@@ -1,0 +1,4 @@
+# ALL: neither store can fire successfully
+GT4500,1,1,1,1
+TORPEDO,ALL
+TORPEDO,ALL
